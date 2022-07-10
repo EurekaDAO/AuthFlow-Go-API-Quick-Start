@@ -14,5 +14,6 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# API Config File
+# Config Files
 config.json
+flow.json
